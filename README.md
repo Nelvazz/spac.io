@@ -19,4 +19,3 @@ SPAC.IO is committed to delivering solutions that meet the high standards of the
 ---
 
 **SPAC.IO** - Where developers build the future.
-![spac-io](https://github.com/user-attachments/assets/49eb5753-39c4-4297-98ee-d6ac24e8ec43)
